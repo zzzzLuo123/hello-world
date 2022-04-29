@@ -1,2 +1,2 @@
 # hello-world
-First repository
+First repository as preparation for course request.
